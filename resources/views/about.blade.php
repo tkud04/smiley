@@ -15,11 +15,6 @@
 <p>Wherever you are along the creative path of your new or existing venture, be it ideation, promotion, branding, printing or marketing collateral etc. We are your one stop agency.</p>
 <p>To our existing clients, its been an honour working with you to create iconic brands and watching you ignite your customers passions, keep sending your comments, compliments and suggestions our way!</p>
 <p>To our prospects, we look forward to welcoming you onboard as we create a life long business experience.</p>
-	              <ul class="my-4">
-	              	<li><span class="ion-ios-checkmark-circle mr-2"></span> Even the all-powerful Pointing</li>
-	              	<li><span class="ion-ios-checkmark-circle mr-2"></span> Behind the word mountains</li>
-	              	<li><span class="ion-ios-checkmark-circle mr-2"></span> Separated they live in Bookmarksgrove</li>
-	              </ul>
 
 	              <div class="row">
 	              	<div class="col-md-7 ftco-animate">
