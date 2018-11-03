@@ -12,10 +12,10 @@ $(document).ready(function($) {
 	   hideBurgerMenu();
 	   window.location = "#s-works";
 	})	
-	$('#blog-nav').click(function(e){
+	$('#services-nav').click(function(e){
 	   e.preventDefault();
 	   hideBurgerMenu();
-	   window.location = "#s-blog";
+	   window.location = "#s-services";
 	})	
 	$('#contact-nav').click(function(e){
 	   e.preventDefault();
