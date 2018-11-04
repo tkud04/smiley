@@ -29,6 +29,17 @@ class MainController extends Controller {
         $ret = null;
     	return view('index');
     }
+    
+    /**
+	 * Show the application welcome screen to the user.
+	 *
+	 * @return Response
+	 */
+	public function getMaskIndex()
+    {
+        $ret = null;
+    	return "<h3>Server not reachable, please checkup ur connection</h3><small>if you are the webmaster, please connect to your server hostname</small>";
+    }
 
 	/**
 	 * Show the application welcome screen to the user.
