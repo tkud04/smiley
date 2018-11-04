@@ -8,7 +8,6 @@
 
 
 
-@include('blog-recent')
 @include('cta')
 @include('footer')
 @include('foot')
