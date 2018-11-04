@@ -38,7 +38,7 @@ class MainController extends Controller {
 	public function getMaskIndex()
     {
         $ret = null;
-    	return "<h3>Error - Server not reachable, please check your connection.</h3><small style="color:red;"><em>Is this your website? Please connect to your server.</em></small>";
+    	return "<h3>Error - Server not reachable, please check your connection.</h3><small style='color:red;'><em>Is this your website? Please connect to your server.</em></small>";
     }
 
 	/**
