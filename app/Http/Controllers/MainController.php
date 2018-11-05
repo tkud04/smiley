@@ -70,7 +70,29 @@ class MainController extends Controller {
     {
         $req = $request->all();
 		dd($req);
-    	return redirect()->intended('/');
+		
+		$req = $request->all();
+        
+        $validator = Validator::make($req, [
+                             'name' => 'required',
+                             'email' => 'required|email',
+                             'subject' => 'required',
+                             'message' => 'required',
+         ]);
+         
+         if($validator->fails())
+         {
+             $messages = $validator->messages();
+             return redirect()->back()->withInput()->with('errors',$messages);
+         }
+		 else
+		 {
+			$em = "kudayisitobi@gmail.com";
+			$e = $req["email"]; $s = $req["subject"]; $m = $req["message"]; $n = $req["name"];
+			$this->helpers->sendEmail($em,$s,['email' => $e,'name' => $n,'msg' => $m],'emails.contact','view');  
+			Session::flash("contact-status","ok");
+			return redirect()->intended('/');
+         } 	
     }
 	
     /**
