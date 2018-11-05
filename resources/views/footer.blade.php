@@ -34,6 +34,7 @@
 		                <li><a href="tel:2348036023213"><span class="icon icon-phone"></span><span class="text">+234 803 602 3213</span></a></li>
 		                <li><a href="tel:2348029314685"><span class="icon icon-phone"></span><span class="text">+234 802 931 4685</span></a></li>
 		                <li><a href="mailto:info@escalateinnovations.com.ng"><span class="icon icon-envelope"></span><span class="text">info@escalateinnovations.com.ng</span></a></li>
+		                <li><a href="mailto:wale_lawal_005@yahoo.com"><span class="icon icon-envelope"></span><span class="text">wale_lawal_005@yahoo.com</span></a></li>
 		              </ul>
 		            </div>
 	            </div>

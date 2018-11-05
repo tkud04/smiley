@@ -15,6 +15,13 @@
 	              	</div>
 	              </div>
 	              <div class="services d-flex ftco-animate">
+	              	<div class="icon d-flex justify-content-center align-items-center"><span class="flaticon-quality"></span></div>
+	              	<div class="info ml-4">
+	              		<h3>Website Design</h3>
+	              		<p>corportate websites, e-commerce, personal websites, blogs etc</p>
+	              	</div>
+	              </div>
+	              <div class="services d-flex ftco-animate">
 	              	<div class="icon d-flex justify-content-center align-items-center"><span class="flaticon-megaphone"></span></div>
 	              	<div class="info ml-4">
 	              		<h3>Marketing and print advertising</h3>
