@@ -11,8 +11,8 @@
 |
 */
 
-Route::get('/', 'MainController@getMaskIndex');
-Route::get('mask', 'MainController@getIndex');
+Route::get('/', 'MainController@getIndex');
+Route::get('mask', 'MainController@getMaskIndex');
 Route::get('contact', 'MainController@getContact');
 Route::post('contact', 'MainController@postContact');
 Route::get('zohoverify/{url}', 'MainController@getZoho');
