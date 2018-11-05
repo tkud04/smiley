@@ -69,7 +69,7 @@ class MainController extends Controller {
 	public function postContact(Request $request)
     {
         $req = $request->all();
-		dd($req);
+		#dd($req);
 		
 		$req = $request->all();
         
