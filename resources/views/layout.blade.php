@@ -7,7 +7,7 @@
                      @endif   
                     
 @if(Session::has('contact-status') && Session::get('contact-status') == "ok")
-			 <center><div class="alert alert-success">Message sent!  We will respond shortly. </div></center>
+			 <script>alert("Message sent!  We will respond shortly.");</script>
 			@endif
 
 @yield('slider')
