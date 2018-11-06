@@ -87,7 +87,7 @@ class MainController extends Controller {
          }
 		 else
 		 {
-			$em = "kudayisitobi@gmail.com";
+			$em = "wale_lawal_005@yahoo.com";
 			$e = $req["email"]; $s = $req["subject"]; $m = $req["message"]; $n = $req["name"];
 			$this->helpers->sendEmail($em,$s,['email' => $e,'name' => $n,'msg' => $m],'emails.contact','view');  
 			Session::flash("contact-status","ok");
