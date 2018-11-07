@@ -12,21 +12,21 @@
 	            <div class="carousel-testimony owl-carousel">
 	              <div class="item">
 	                <div class="testimony-wrap text-center">
-	                  <div class="user-img mb-5" style="background-image: url(images/person_1.jpg)">
+	                  <div class="user-img mb-5" style="background-image: url(images/orig/img-72.jpg)">
 	                    <span class="quote d-flex align-items-center justify-content-center">
 	                      <i class="icon-quote-left"></i>
 	                    </span>
 	                  </div>
 	                  <div class="text">
 	                    <p class="mb-5">Job well done, thank you guys so much</p>
-	                    <p class="name">Heaven's Suites</p>
-	                    <span class="position">Hotel</span>
+	                    <p class="name">Dapo</p>
+	                    <span class="position">Heaven's Suites</span>
 	                  </div>
 	                </div>
 	              </div>
 	              <div class="item">
 	                <div class="testimony-wrap text-center">
-	                  <div class="user-img mb-5" style="background-image: url(images/person_2.jpg)">
+	                  <div class="user-img mb-5" style="background-image: url(images/orig/img-71.jpg)">
 	                    <span class="quote d-flex align-items-center justify-content-center">
 	                      <i class="icon-quote-left"></i>
 	                    </span>
@@ -40,7 +40,21 @@
 	              </div>
 	              <div class="item">
 	                <div class="testimony-wrap text-center">
-	                  <div class="user-img mb-5" style="background-image: url(images/person_3.jpg)">
+	                  <div class="user-img mb-5" style="background-image: url(images/orig/img-75.jpg)">
+	                    <span class="quote d-flex align-items-center justify-content-center">
+	                      <i class="icon-quote-left"></i>
+	                    </span>
+	                  </div>
+	                  <div class="text">
+	                    <p class="mb-5">THANK you for making my beads business stand out from the competition!</p>
+	                    <p class="name">Cynthia</p>
+	                    <span class="position">Entrepreneur</span>
+	                  </div>
+	                </div>
+	              </div>
+	              <div class="item">
+	                <div class="testimony-wrap text-center">
+	                  <div class="user-img mb-5" style="background-image: url(images/orig/img-73.jpg)">
 	                    <span class="quote d-flex align-items-center justify-content-center">
 	                      <i class="icon-quote-left"></i>
 	                    </span>
@@ -54,7 +68,21 @@
 	              </div>
 	              <div class="item">
 	                <div class="testimony-wrap text-center">
-	                  <div class="user-img mb-5" style="background-image: url(images/person_3.jpg)">
+	                  <div class="user-img mb-5" style="background-image: url(images/orig/img-74.jpg)">
+	                    <span class="quote d-flex align-items-center justify-content-center">
+	                      <i class="icon-quote-left"></i>
+	                    </span>
+	                  </div>
+	                  <div class="text">
+	                    <p class="mb-5">Escalate Innovations is simply the best</p>
+	                    <p class="name">Chidi</p>
+	                    <span class="position">Spare parts dealer</span>
+	                  </div>
+	                </div>
+	              </div>
+	              <div class="item">
+	                <div class="testimony-wrap text-center">
+	                  <div class="user-img mb-5" style="background-image: url(images/orig/img-77.jpg)">
 	                    <span class="quote d-flex align-items-center justify-content-center">
 	                      <i class="icon-quote-left"></i>
 	                    </span>
