@@ -22,6 +22,14 @@ $(document).ready(function($) {
 	   hideBurgerMenu();
 	   window.location = "#s-contact";
 	})
+	var abtImages = ["orig/img-14.jpg","slider/xmas-1.jpg","slider/xmas-2.jpg"];
+	var abtCounter = 0;
+	
+	var abtImgInterval = setInterval(function(){
+	   ++abtCounter; if(abtCounter >= abtImages.length) abtCounter = 0;
+	   var uu = "url('images/" + abtImages[abtCounter] +"')";
+	   $('#about-imgg').css("background-image",uu);
+	},2000)
 });
 
 function hideBurgerMenu(){
