@@ -1,7 +1,7 @@
       <section class="ftco-section-2" id="s-abt">
 	      <div class="container-fluid">
 	        <div class="section-2-blocks-wrapper d-flex row no-gutters">
-	          <div class="img col-md-6 ftco-animate" style="background-image: url('images/orig/img-14.jpg');">
+	          <div id="about-imgg" class="img col-md-6 ftco-animate" style="background-image: url('images/orig/img-14.jpg');">
 	          </div>
 	          <div class="text col-md-6 ftco-animate">
 	            <div class="text-inner align-self-start">
